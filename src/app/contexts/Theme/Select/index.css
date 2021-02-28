@@ -1,0 +1,9 @@
+.ThemeSelect {
+  margin: 20px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 4px;
+
+  background: var(--text-color);
+  color: var(--background-color);
+}
